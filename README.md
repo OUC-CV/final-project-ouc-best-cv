@@ -45,11 +45,11 @@
 
 #### 代码实现
 
-![image-20240623182840613](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20240623182840613.png)
+![image-20240623182840613](./img/image-20240623182840613.png)
 
 ​		1.对多曝光图像序列{xk}进行双线性下采样，获得降采样的图像序列{Xkl}以减少数据的运算量 。
 
-​				![image-20240623182948153](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20240623182948153.png)	
+​				![image-20240623182948153](./img/image-20240623182948153.png)	
 
 ​				下采样前：![image-20240623183057549](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20240623183057549.png)
 
